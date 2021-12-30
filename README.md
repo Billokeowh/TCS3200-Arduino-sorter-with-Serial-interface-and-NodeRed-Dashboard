@@ -14,3 +14,11 @@ Node-red is a development tool that is based on the Node.js Javascript runtime e
 
 ![image](https://user-images.githubusercontent.com/80263068/147759969-49463421-4a11-44e1-a287-8d64a8172473.png)
 - How the String from the Arduino is parsed to get required values.
+
+The Node-Red flow below is just a visual version of what is attached above. To get this working on your machine you will have to make sure that Node-Red is running and the correct port numnber and baud rate is selected. Once up and running this connection is very stable and there were never any issues with it while I was testing. 
+
+![image](https://user-images.githubusercontent.com/80263068/147760832-b92952d0-bc3e-4cae-b2d0-4fac7508fee8.png)
+
+
+
+
